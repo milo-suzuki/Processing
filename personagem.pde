@@ -1,5 +1,5 @@
 class Personagem {
-  int tamanho = 50;
+  int tamanho = 50; //hola 
   PVector pos;
 
   Personagem(float x_, float y_) {
